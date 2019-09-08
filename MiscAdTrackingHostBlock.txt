@@ -1,0 +1,17 @@
+# This is a list of domains I don't see in other lists
+# If anything causes issues whitelist that domain, these are from my blacklist
+# As far as I know nothing blocks them yet
+# I will update as I see things get through.
+10907971.collect.igodigital.com
+61551.bodis.com
+c4563968.mgr.gcsp.cddbp.net
+events.evie.com
+events2.evie.com
+ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+hostanalytics.com
+www.hostanalytics.com
+ichnaea.netflix.com
+prod.telemetry.ros.rockstargames.com
+siteintercept.qualtrics.com
+qualtrics.com
+znesxm9bklywjrjnd-dishvoc.siteintercept.qualtricscom
