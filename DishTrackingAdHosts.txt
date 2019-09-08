@@ -9,6 +9,7 @@ grasshopper-report.dishanywhere.com
 grasshopper-rtr-logs.dishanywhere.com
 grasshopper-stb-statereport.dishanywhere.com
 grasshopper-stb-dishanywhere.com
+grasshopper-stb.dishanywhere.com
 stbanalytics.echostarbeta.com
 stbanalyticschy.ecostarbeta.com
 stbanalyticspvm.echostarbeta.com
@@ -17,3 +18,5 @@ stbimg.echostarcdn.com.c.footprint.net
 vmeasuredl.dishaccess.tv
 www.hostanalytics.com
 hostanalytics.com
+siteintercept.qualtrics.com
+znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
