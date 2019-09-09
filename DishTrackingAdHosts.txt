@@ -20,3 +20,4 @@ www.hostanalytics.com
 hostanalytics.com
 siteintercept.qualtrics.com
 znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
+analytics.sling.com
