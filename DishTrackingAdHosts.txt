@@ -23,4 +23,4 @@ znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
 analytics.sling.com
 dish-prod2-elb.digitalsmiths.net
 digitalsmiths.net
-*.digitalsmiths.net
+www.digitalsmiths.net
