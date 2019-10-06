@@ -16,3 +16,6 @@ siteintercept.qualtrics.com
 qualtrics.com
 znesxm9bklywjrjnd-dishvoc.siteintercept.qualtricscom
 flatanalytics.com
+www.flatanalytics.com
+sfdict.com
+www.sfdict.com
