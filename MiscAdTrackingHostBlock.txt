@@ -19,3 +19,7 @@ flatanalytics.com
 www.flatanalytics.com
 sfdict.com
 www.sfdict.com
+ads.nexage.com
+api.bandwidthx.net
+adservice.google.com
+
