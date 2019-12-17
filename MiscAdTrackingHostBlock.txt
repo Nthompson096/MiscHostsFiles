@@ -1,5 +1,5 @@
 # This is a list of domains I don't see in other lists
-# If anything causes issues whitelist that domain, these are from my blacklist
+# If anything causes issues whitelist that domain, these are from my personal blacklist
 # As far as I know nothing blocks them yet
 # I will update as I see things get through.
 10907971.collect.igodigital.com
@@ -11,7 +11,6 @@ ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 hostanalytics.com
 www.hostanalytics.com
 ichnaea.netflix.com
-prod.telemetry.ros.rockstargames.com
 siteintercept.qualtrics.com
 qualtrics.com
 znesxm9bklywjrjnd-dishvoc.siteintercept.qualtricscom
@@ -22,4 +21,34 @@ www.sfdict.com
 ads.nexage.com
 api.bandwidthx.net
 adservice.google.com
-
+mobileapptracking.com
+amazon-adsystem.com
+c.evidon.com
+c.tadst.com
+cdn.taboola.com
+cdn.transifex.com
+events.ifunny.co
+googleads.g.doubleclick.net
+grasshopper-analytics.dishanywhere.com
+grasshopper-report.dishanywhere.com
+grasshopper-stb-statereport.dishanywhere.com
+grasshopper-stb-dishanywhere.com
+stbanalytics.echostarbeta.com
+stbanalyticschy.ecostarbeta.com
+stbanalyticspvm.echostarbeta.com
+stbhealthprod.dishnetwork.com
+stbimg.echostarcdn.com.c.footprint.net
+vmeasuredl.dishaccess.tv
+www.hostanalytics.com
+hostanalytics.com
+siteintercept.qualtrics.com
+znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
+analytics.sling.com
+dish-prod2-elb.digitalsmiths.net
+logs.ifunny.co
+stbanalyticschy.echostarbeta.com
+google-analytics.com
+www.google-analytics.com
+googleadservices.com
+www.googleadservices.com
+alb.reddit.com
