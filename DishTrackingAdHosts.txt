@@ -2,25 +2,41 @@
 # I only use YT from the internet side of the Hopper
 # If a domain disables a feature you want let me know.
 # In my use I have no issues anywhere
-grasshopper-analytics.dishanywhere.com
-grasshopper-config.dishanywhere.com
-grasshopper-netra-upload.dishanywhere.com
-grasshopper-report.dishanywhere.com
-grasshopper-rtr-logs.dishanywhere.com
-grasshopper-stb-statereport.dishanywhere.com
-grasshopper-stb-dishanywhere.com
-grasshopper-stb.dishanywhere.com
-stbanalytics.echostarbeta.com
-stbanalyticschy.ecostarbeta.com
-stbanalyticspvm.echostarbeta.com
-stbhealthprod.dishnetwork.com
-stbimg.echostarcdn.com.c.footprint.net
-vmeasuredl.dishaccess.tv
-www.hostanalytics.com
-hostanalytics.com
-siteintercept.qualtrics.com
-znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
-analytics.sling.com
-dish-prod2-elb.digitalsmiths.net
-digitalsmiths.net
-www.digitalsmiths.net
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+127.0.0.1 grasshopper-analytics.dishanywhere.com
+127.0.0.1 grasshopper-config.dishanywhere.com
+127.0.0.1 grasshopper-netra-upload.dishanywhere.com
+127.0.0.1 grasshopper-report.dishanywhere.com
+127.0.0.1 grasshopper-rtr-logs.dishanywhere.com
+127.0.0.1 grasshopper-stb-statereport.dishanywhere.com
+127.0.0.1 grasshopper-stb-dishanywhere.com
+127.0.0.1 grasshopper-stb.dishanywhere.com
+127.0.0.1 stbanalytics.echostarbeta.com
+127.0.0.1 stbanalyticschy.ecostarbeta.com
+127.0.0.1 stbanalyticspvm.echostarbeta.com
+127.0.0.1 stbhealthprod.dishnetwork.com
+127.0.0.1 stbimg.echostarcdn.com.c.footprint.net
+127.0.0.1 vmeasuredl.dishaccess.tv
+127.0.0.1 www.hostanalytics.com
+127.0.0.1 hostanalytics.com
+127.0.0.1 siteintercept.qualtrics.com
+127.0.0.1 znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
+127.0.0.1 analytics.sling.com
+127.0.0.1 dish-prod2-elb.digitalsmiths.net
+127.0.0.1 digitalsmiths.net
+127.0.0.1 www.digitalsmiths.net
+127.0.0.1 vmeasureul.dishaccess.tv
