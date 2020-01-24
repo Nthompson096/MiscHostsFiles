@@ -24,7 +24,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 grasshopper-rtr-logs.dishanywhere.com
 127.0.0.1 grasshopper-stb-statereport.dishanywhere.com
 127.0.0.1 grasshopper-stb-dishanywhere.com
-127.0.0.1 grasshopper-stb.dishanywhere.com
+127.0.0.1 grasshopper-rtr-logs.dishanywhere.com
 127.0.0.1 stbanalytics.echostarbeta.com
 127.0.0.1 stbanalyticschy.ecostarbeta.com
 127.0.0.1 stbanalyticspvm.echostarbeta.com
