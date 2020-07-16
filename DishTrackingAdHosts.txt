@@ -2,6 +2,7 @@
 # I only use YT from the internet side of the Hopper
 # If a domain disables a feature you want let me know.
 # In my use I have no issues anywhere
+# I no longer have Dish Network so I do not know if they have new tracking domains.
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
