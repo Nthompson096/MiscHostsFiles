@@ -51,3 +51,4 @@
 127.0.0.1 alb.reddit.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
+127.0.0.1 sitereview.zscaler.com
