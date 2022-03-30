@@ -52,3 +52,8 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 sitereview.zscaler.com
+127.0.0.1 s.dessaly.com
+127.0.0.1 3d23226076bcb8f95d5b55ead6023369.adjns.com
+127.0.0.1 prebid.ifunny.co
+127.0.0.1 fun.co
+127.0.0.1 prebid-cache.ifunny.co
