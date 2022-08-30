@@ -152,3 +152,16 @@
 127.0.0.1 www.sfdict.com
 127.0.0.1 znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
 127.0.0.1 znesxm9bklywjrjnd-dishvoc.siteintercept.qualtricscom
+127.0.0.1 smartssp-node20.iqzone.com
+127.0.0.1 sh2-ue260.rtbtrackers.com
+127.0.0.1 httpdns-push.heytapmobile.com
+127.0.0.1 cdn-settings.segment.com
+127.0.0.1 us-e-11.admanmedia.com
+127.0.0.1 smartssp-node10.iqzone.com
+127.0.0.1 sh2-ue261.rtbtrackers.com
+127.0.0.1 omes-sec.heytapmobile.com
+127.0.0.1 sh2-ue282.rtbtrackers.com
+127.0.0.1 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+127.0.0.1 d.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+127.0.0.1 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+127.0.0.1 h-sdk.online-metrix.net
