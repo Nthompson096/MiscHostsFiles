@@ -169,3 +169,6 @@
 127.0.0.1 api.mchnad
 127.0.0.1 42trck.com
 127.0.0.1 mdp-appconf-us.heytapdl.com
+127.0.0.1 rtb-useast.displayio.cloud
+127.0.0.1 servt.srv-mars.com
+127.0.0.1 player.srv-mars.com
