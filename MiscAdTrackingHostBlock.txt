@@ -172,3 +172,7 @@
 127.0.0.1 rtb-useast.displayio.cloud
 127.0.0.1 servt.srv-mars.com
 127.0.0.1 player.srv-mars.com
+127.0.0.1 tracker.pre.vr-tb.com
+127.0.0.1 allawnos.com
+127.0.0.1 mintegral.com
+127.0.0.1 appier.net
