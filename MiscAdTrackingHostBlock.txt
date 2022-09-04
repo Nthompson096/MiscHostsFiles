@@ -177,3 +177,4 @@
 127.0.0.1 mintegral.com
 127.0.0.1 appier.net
 127.0.0.1 conn-service-us-03.allawnos.com
+127.0.0.1 a.nel.cloudflare.com
