@@ -178,3 +178,11 @@
 127.0.0.1 appier.net
 127.0.0.1 conn-service-us-03.allawnos.com
 127.0.0.1 a.nel.cloudflare.com
+127.0.0.1 d.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+127.0.0.1 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+127.0.0.1 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+127.0.0.1 ms.applvn.com
+127.0.0.1 console.brightmountainmedia.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 api16-access-sg.pangle.io
+127.0.0.1 ms.applovin.com
