@@ -187,3 +187,4 @@
 127.0.0.1 api16-access-sg.pangle.io
 127.0.0.1 ms.applovin.com
 127.0.0.1 x-eu.b8a29a12302a93c02887ccd0f01578d592d5e2b76bb46b1915dc1e20.com
+127.0.0.1 cdn.sift.com
