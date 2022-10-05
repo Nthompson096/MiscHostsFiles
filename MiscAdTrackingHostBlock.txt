@@ -207,3 +207,5 @@
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 127.0.0.1 x-eu.c43a4722a1b8d894d4e56793ae84cf81c28b73e2cf8a1155627cc0dc.com
 127.0.0.1 x-eu.137e82938ec8f951d71b03180c47c2e726cf8857dae8716d8d47613a.com
+push-dc-us.heytapmobile.com	
+o64374.ingest.sentry.io	
