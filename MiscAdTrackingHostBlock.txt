@@ -209,3 +209,4 @@
 127.0.0.1 x-eu.137e82938ec8f951d71b03180c47c2e726cf8857dae8716d8d47613a.com
 127.0.0.1 push-dc-us.heytapmobile.com	
 127.0.0.1 o64374.ingest.sentry.io	
+127.0.0.1 na.prod.pdss.paladin.a2z.com
