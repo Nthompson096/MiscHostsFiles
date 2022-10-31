@@ -213,3 +213,5 @@
 127.0.0.1 cdn.admile.xyz
 127.0.0.1 x.blueduckredapple.com
 127.0.0.1 d.blueduckredapple.com
+127.0.0.1 cdn.adpushup.com
+127.0.0.1 adpushup.com
