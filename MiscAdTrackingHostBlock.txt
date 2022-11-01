@@ -222,3 +222,4 @@
 127.0.0.1 x.thecatmachine.com
 127.0.0.1 tracker.scalarr.net 
 127.0.0.1 cdn.indexww.com
+127.0.0.1 us.a.dauup.com
