@@ -215,3 +215,9 @@
 127.0.0.1 d.blueduckredapple.com
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 adpushup.com
+127.0.0.1 usnotice.wofdsp.com
+127.0.0.1 cdn.wofdsp.com
+127.0.0.1 vg.woftrk.com
+127.0.0.1 d.thecatmachine.com
+127.0.0.1 x.thecatmachine.com
+127.0.0.1 tracker.scalarr.net 
