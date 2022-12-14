@@ -255,3 +255,4 @@
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 cdn.liftoff-creatives.io
 127.0.0.1 config.inmobi.com
+127.0.0.1 prod-ms.applovin.com
